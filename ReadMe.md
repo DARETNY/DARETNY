@@ -22,6 +22,8 @@ Heyecan verici veri projelerinde iş birliği yapmaya veya veri analizi, matemat
 
 📊 Mutlu analizler ve kodlamalar!
 
+<a href="https://app.daily.dev/swoardd"><img src="https://api.daily.dev/devcards/v2/knRfmziRl2NxbEUU9Oa0k.png?type=default&r=p7q" width="356" alt="Kadir çallıoğlu's Dev Card"/></a>
+
 ## 🌐 Sosyal Medya:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kadircallıoğlu)
 
