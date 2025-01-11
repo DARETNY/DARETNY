@@ -16,6 +16,7 @@ Merhaba, ben [Kadir Çallıoğlu], matematik geçmişine sahip ve veri analizine
 - Makine Öğrenimi ve Yapay Zeka
 - Veri Tabanlı Ürün Yönetimi
 - R Programlama Dili
+- Oyun geliştiriciligi
 
 💬 **Bağlantı Kuralım**:
 Heyecan verici veri projelerinde iş birliği yapmaya veya veri analizi, matematik ve teknoloji ile ilgili her şeyi tartışmaya her zaman açığım. Python, SQL, veri görselleştirme veya başka bir konu olsun, keşfetmeye ve öğrenmeye hevesliyim. İletişime geçmekten çekinmeyin!
