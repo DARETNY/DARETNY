@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+
 # 💫 Hakkımda:
 📊 Veri Analisti | 🎓 Matematik Mezunu | 💻 Python ve SQL Uzmanı | 📈 Veri Görselleştirme Meraklısı
 
