@@ -5,7 +5,7 @@
 # 💫 Hakkımda:
 📊 Veri Analisti | 🎓 Matematik Mezunu | 💻 Python ve SQL Uzmanı | 📈 Veri Görselleştirme Meraklısı
 
-Merhaba, ben [Kadir Çallıoğlu], matematik geçmişine sahip ve veri analizine tutkulu bir veri analistiyim. Verilerin ardındaki hikayeleri keşfetmek ve karar alma süreçlerini veri odaklı hale getirmek benim uzmanlık alanım.
+Merhaba, ben Kadir Çallıoğlu, matematik geçmişine sahip ve veri analizine tutkulu bir veri analistiyim. Verilerin ardındaki hikayeleri keşfetmek ve karar alma süreçlerini veri odaklı hale getirmek benim uzmanlık alanım.
 
 🕹️ **Uzmanlık Alanlarım**:
 - Python Programlama (pandas, matplotlib, numpy)
